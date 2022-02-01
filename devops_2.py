@@ -1,6 +1,6 @@
-a = float(input('Enter a: '))  
-b = float(input('Enter b: '))  
-c = float(input('Enter c: '))  
+a = 5
+b = 6
+c = 7
   
 s = (a + b + c) / 2  
   
